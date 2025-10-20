@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  fluttertoast: ^8.2.1
+  fluttertoast: ^9.0.0
 
 dev_dependencies:
   flutter_test:
